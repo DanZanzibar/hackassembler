@@ -76,4 +76,3 @@ class Parser():
                 symbol = self.command[1:-1]
         return symbol
 
-    
