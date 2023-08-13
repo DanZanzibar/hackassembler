@@ -1,4 +1,3 @@
-import os
 import hackassembler.code
 import hackassembler.symbol
 
